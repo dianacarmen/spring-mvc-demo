@@ -1,0 +1,10 @@
+com\edocti\jintro\lab12\InsertVehicleStatementCreator.class
+com\edocti\jintro\lab12\Vehicle.class
+com\edocti\jintro\lab12\VehicleRowMapper.class
+com\edocti\jintro\lab12\VehicleServiceImpl.class
+com\edocti\jintro\lab12\VehicleDAO.class
+com\edocti\jintro\lab12\VehicleService.class
+com\edocti\jintro\lab12\UpdateVehicleStatementCreator.class
+com\edocti\jintro\lab12\VehiclesController.class
+com\edocti\jintro\lab12\JdbcVehicleDAO.class
+com\edocti\jintro\lab12\VehicleValidator.class
